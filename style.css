@@ -51,8 +51,3 @@ a {
 .btn-blue:hover {
 	background-color: lightblue;
 }
-
-.container {
-	width: 700px;
-	margin: 0 auto;
-}
